@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi, I'm Yolzimatqui.
+# I am a self-taught aspiring polymath in a specialized world.
+## My main knowledge domains are:
+- Physics
+- Math
+- IT
+- CS
+- Philosophy ---> Visit my blog of philosophy
+- Languages (Spanish, english, russian and Latin) ---> More coming soon
+- Engineering (Very soon)
 
-<!--
-**Yolizmatqui/Yolizmatqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Current Stack
+- OS: Linux (Arch/Ubuntu/Debian/Kali)
+- Languages: Python, Bash,
 
-Here are some ideas to get you started:
+# Potential Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current Tech Roadmap
+Backend ---> Data engineering ---> AI/ML engineering
+|------------- Software Architecture----------------|
+
+# Current IT Roadmap
+
+# My rabbit holes:
+- Blockchaing & Cryptocurrency
+- Prompt engineering
+- Hardware programming and Embedded systems
+- VR/AR Technology
+- Low-level systems
+- Criptography
+
+# Ultimate goal
+Colaborate on deeply challenging projects. I'm particularly interested in:
+- Open-soruce projects with real-world impact.
+- Ambitious startup ideas solving hard and big problems.
+- Research-oriented or public-benefit projects for a beter tech for the people.
+
+# Ask me about anything and I'll give you the best answer that my perception can give you.
