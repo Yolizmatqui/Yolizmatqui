@@ -1,11 +1,11 @@
 # Hi, I'm Sherlock.
 # I am a self-taught aspiring polymath navigating a specialized world.
 ## My main knowledge domains are:
-- Physics
-- Math
+- Physics ---> Focus on Applied/Engineering physics, quantum mechanics, Computational physics and Electromagnetism.
+- Math ---> Mathematical Physics, mathematical logic, Set theory, Information theory, discrete math, geometry and topology.
 - IT
 - Computer Science
-- Philosophy ---> Visit my blog of philosophy to see my essays and reflections about it
+- Philosophy ---> Visit my blog of philosophy to see my essays and reflections about the main questions of existence.
 - Languages - Spanish (native), english (fluent), Latin (reading)
 - -> Currently learning Russian
 - Engineering - fundamentals of electrical and electronic engineering
