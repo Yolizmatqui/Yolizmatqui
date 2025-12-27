@@ -2,22 +2,25 @@
 # I am a self-taught aspiring polymath navigating a specialized world.
 ## My main knowledge domains are:
 - Physics ---> Focus on Applied/Engineering physics, quantum mechanics, Computational physics and Electromagnetism.
-- Math ---> Mathematical Physics, mathematical logic, Set theory, Information theory, discrete math, geometry and topology.
+- Math ---> Mathematical Physics, mathematical logic, Set theory, Information theory, discrete math, number theory, geometry and topology.
+- Visit my blog of science with papers and research I do. 
 - IT
 - Computer Science
 - Philosophy ---> Visit my blog of philosophy to see my essays and reflections about the main questions of existence.
 - Languages - Spanish (native), english (fluent), Latin (reading)
-- -> Currently learning Russian
+- -> Currently learning Russian and Ancient Greek
 - Engineering - fundamentals of electrical and electronic engineering
+- Law (avid reader and I like analysis of cases)
 
 ## Current Stack
 - Linux (Arch/Ubuntu/Debian/Kali)
 - Python
 - Bash
 - Git & Github
+- HTML/CSS
 
 ## Future Stack
-- Languages: JavaScript (Node.js), C, C++, Rust, Assembly, Wolfram, Julia.
+- Languages: JavaScript (Node.js), C, C++, Rust, Assembly, Wolfram, Haskell, Q#, R. Lua, Solidity, WebAssembly, Julia.
 - Frameworks: Django. Flask, FastAPI
 - Databases: MySQL, PostgreSQL, Redis
 - DevOps & Cloud: Docker, AWS, Azure, Kubernetes
