@@ -30,7 +30,7 @@
 
 ## Tech Roadmap
 **Backend Engineering → Data Engineering → AI/ML Engineering**  
-with a strong emphasis on **Software Architecture**
+with a strong emphasis on **Software Architecture and Systems Design**
 
 ## IT Roadmap
 Linux Sysadmin ➡️ Cybersecurity ➡️ Security architect
