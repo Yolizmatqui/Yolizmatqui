@@ -10,7 +10,7 @@
 - Languages - Spanish (native), english (fluent), Latin (reading)
 - -> Currently learning Russian and Ancient Greek
 - Engineering - fundamentals of electrical and electronic engineering
-- Law (avid reader and I like analysis of cases)
+- Law (avid reader with a strong interest in case analysis and legal reasoning)
 
 ## Current Stack
 - Linux (Arch/Ubuntu/Debian/Kali)
