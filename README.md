@@ -3,7 +3,7 @@
 ## My main knowledge domains are:
 - Physics ---> Focus on Applied/Engineering physics, quantum mechanics, Computational physics and Electromagnetism.
 - Math ---> Mathematical Physics, mathematical logic, Set theory, Information theory, discrete math, number theory, geometry and topology.
-- Visit my blog of science with papers and research I do. 
+- Visit my blog of science with papers and research I do.
 - IT
 - Computer Science
 - Philosophy ---> Visit my blog of philosophy to see my essays and reflections about the main questions of existence.
@@ -44,7 +44,7 @@ Linux Sysadmin ➡️ Cybersecurity ➡️ Security architect
 ## Ultimate goal
 I want to Collaborate on deeply challenging projects. I'm particularly interested in:
   - Open-source: Creating free software for people and progress.
-  - Startups: Solving hard, meaningful problems and give ideas.
+  - Startups: Solving hard, meaningful problems and contribute ideas.
   - Research: Pushing the boundaries of science and its understanding.
 Build deep technical mastery in each and every area and make a synthesis of it.
 
