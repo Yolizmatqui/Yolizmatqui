@@ -26,7 +26,7 @@
 **Backend Engineering → Data Engineering → AI/ML Engineering**  
 with a strong emphasis on **Software Architecture**
 
-## Current IT Roadmap
+## IT Roadmap
 Linux Sysadmin ➡️ Cybersecurity ➡️ Security architect
 - Other focus: Linux Kernel Developer
 
