@@ -6,7 +6,7 @@
 - IT
 - Computer Science
 - Philosophy ---> Visit my blog of philosophy to see my essays and reflections about it
-- Languages - Spanish (native), english (fluent), Latin(reading
+- Languages - Spanish (native), english (fluent), Latin (reading)
 - -> Currently learning Russian
 - Engineering - fundamentals of electrical and electronic engineering
 
@@ -17,6 +17,7 @@
 - Git & Github
 
 ## Future Stack
+- Languages: JavaScript, C, C++, Rust, Assembly, Wolfram, Julia.
 - Frameworks: Django. Flask, FastAPI
 - Databases: MySQL, PostgreSQL, Redis
 - DevOps & Cloud: Docker, AWS, Kubernetes
