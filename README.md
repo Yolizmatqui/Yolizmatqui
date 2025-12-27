@@ -1,4 +1,4 @@
-# Hi, I'm Yolzimatqui.
+# Hi, I'm Sherlock.
 # I am a self-taught aspiring polymath navigating a specialized world.
 ## My main knowledge domains are:
 - Physics
