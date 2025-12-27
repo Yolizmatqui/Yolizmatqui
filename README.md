@@ -20,7 +20,10 @@
 - HTML/CSS
 
 ## Future Stack
-- Languages: JavaScript (Node.js), C, C++, Rust, Assembly, Wolfram, Haskell, Q#, R. Lua, Solidity, WebAssembly, Julia.
+- Web Stack
+ - JavaScript (Typescript, Node.js)
+ - WebAssembly
+- C, C++, Rust, Assembly, Wolfram, Haskell, Q#, R. Lua, Solidity, Julia.
 - Frameworks: Django. Flask, FastAPI
 - Databases: MySQL, PostgreSQL, Redis
 - DevOps & Cloud: Docker, AWS, Azure, Kubernetes
