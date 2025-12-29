@@ -23,7 +23,7 @@
 - Web Stack
  - JavaScript (Typescript, Node.js)
  - WebAssembly
-- C, C++, Rust, Assembly, Wolfram, Haskell, Q#, R. Lua, Solidity, Julia.
+- C, C++, Rust, Assembly, Wolfram, Haskell, Q#, R. Lua, Solidity, Verilog Julia.
 - Frameworks: Django. Flask, FastAPI
 - Databases: MySQL, PostgreSQL, Redis
 - DevOps & Cloud: Docker, AWS, Azure, Kubernetes
